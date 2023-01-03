@@ -1,0 +1,1 @@
+This project is for building cards for the game [Magic: The Gathering](https://magic.wizards.com/en). It is a work in progress, and is not yet ready for use.
